@@ -9,8 +9,12 @@
 :man_scientist: a physicist <br>
 :technologist: a programmer <br>
 :artist: and an artist  <br>
-  
 
+  <br>
+  <br>
+  My <b>vocation</b> is <i>teaching</i> and my <b>passion</b> is to <i>create</i>. <br>
+  Currently building a general purpose monte carlo particle simulator.
+  
 </div>
 
 
