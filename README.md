@@ -20,8 +20,10 @@
 
 <h3>Current/Future Projects </h3>
 
-- MontyCarlo
-- MontyBook
+- (current) MontyCarlo
+- (near future) MontyBook
+- (future) JavaScript game engine
+- (future) Numerical solution to the 3D schrodinger equation in C
 
 
 ---
