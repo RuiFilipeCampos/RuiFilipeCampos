@@ -27,10 +27,10 @@
 
 <h3>Current/Future Projects </h3>
 
-- (current) MontyCarlo
-- (near future) MontyBook
-- (future) JavaScript game engine
-- (future) Numerical solution to the 3D schrodinger equation in C
+- (current) MontyCarlo `Cython`, `Python`, `C++`, `devops`, `almost production ready`  
+- (near future) MontyBook `django`, `planning phase` 
+- (future) Game Engine `javascript`, `in my head still`
+- (future) Numerical solution to the 3D schrodinger eqution `C`, `in my head still` 
 
 
 
