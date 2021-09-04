@@ -18,9 +18,10 @@
 </div>
 
 
-<h3> Projects </h3>
+<h3>Current/Future Projects </h3>
 
-
+- MontyCarlo
+- MontyBook
 
 
 ---
