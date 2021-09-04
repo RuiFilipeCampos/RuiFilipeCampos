@@ -18,6 +18,13 @@
 </div>
 
 
+---
+<div align = "center">
+<img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RuiFilipeCampos">
+</div>
+
+
+
 <h3>Current/Future Projects </h3>
 
 - (current) MontyCarlo
@@ -25,10 +32,5 @@
 - (future) JavaScript game engine
 - (future) Numerical solution to the 3D schrodinger equation in C
 
-
----
-<div align = "center">
-<img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RuiFilipeCampos">
-</div>
 
 
