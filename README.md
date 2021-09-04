@@ -29,6 +29,7 @@
 
 - (current) MontyCarlo `Cython`, `Python`, `C++`, `devops`, `almost production ready`  
 - (near future) MontyBook `django`, `planning phase` 
+- (near future) MontyCarlo web page `three.js`
 - (future) Game Engine `javascript`, `in my head still`
 - (future) Numerical solution to the 3D schrodinger eqution `C`, `in my head still` 
 - (future) quantum monte carlo particle simulator `crazy idea`, `quantum computing` 
