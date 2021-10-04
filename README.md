@@ -21,6 +21,8 @@
 ---
 <div align = "center">
 <img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RuiFilipeCampos&hide=jupyter%20notebook">
+<img src = "https://github-readme-stats.vercel.app/api/wakatime?username=RuiFilipeCampos">
+
 </div>
 
 
