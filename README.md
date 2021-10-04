@@ -20,7 +20,7 @@
 
 ---
 <div align = "center">
-<img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RuiFilipeCampos">
+<img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RuiFilipeCampos&hide=jupyter%20notebook">
 </div>
 
 
