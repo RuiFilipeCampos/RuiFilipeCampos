@@ -25,6 +25,13 @@
 
 </div>
 
+<h3>I am doing a challange!</h3>
+
+<h4>Learning three new languages at the same time !</h4>
+
+- C#
+- Java
+- Go (? still deciding)
 
 
 <h3>Current/Future Projects </h3>
