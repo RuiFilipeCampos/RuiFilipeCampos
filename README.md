@@ -31,7 +31,7 @@
 
 - C#
 - Java
-- Go (? still deciding)
+- ~~Go (? still deciding)~~ Assembly
 
 
 <h3>Current/Future Projects </h3>
