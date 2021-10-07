@@ -19,7 +19,7 @@
 
 <h4>Learning three new languages at the same time !</h4>
 
-  <a href = "https://github.com/RuiFilipeCampos/DesktopProjectManagement"> C# </a> | <a href = "" > Java </a> | <a href = ""> Assembly </a>
+  <a href = "https://github.com/RuiFilipeCampos/DesktopProjectManagement"> C# </a> | <a href = "https://github.com/RuiFilipeCampos/BrownianMotionAndroid" > Java </a> | <a href = "https://github.com/RuiFilipeCampos/assembly_cosine"> Assembly </a>
   
 </div>
 
