@@ -19,7 +19,7 @@
 
 <h4>Learning three new languages at the same time !</h4>
 
-C# | Java | Assembly
+  <a href = "https://github.com/RuiFilipeCampos/DesktopProjectManagement"> C# </a> | <a href = "" > Java </a> | <a href = ""> Assembly </a>
   
 </div>
 
