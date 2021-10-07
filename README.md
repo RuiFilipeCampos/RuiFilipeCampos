@@ -19,9 +19,7 @@
 
 <h4>Learning three new languages at the same time !</h4>
 
-C#
-Java
- Assembly
+C# | Java | Assembly
   
 </div>
 
