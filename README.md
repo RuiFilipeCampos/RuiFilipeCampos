@@ -15,6 +15,14 @@
   My <b>vocation</b> is <i>teaching</i> and my <b>passion</b> is to <i>create</i>. <br>
   Currently building a general purpose monte carlo particle simulator.
   
+<h3>I am doing a challange!</h3>
+
+<h4>Learning three new languages at the same time !</h4>
+
+C#
+Java
+ Assembly
+  
 </div>
 
 
@@ -25,13 +33,7 @@
 
 </div>
 
-<h3>I am doing a challange!</h3>
 
-<h4>Learning three new languages at the same time !</h4>
-
-- C#
-- Java
-- ~~Go (? still deciding)~~ Assembly
 
 
 <h3>Current/Future Projects </h3>
