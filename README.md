@@ -30,8 +30,9 @@
 <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=RuiFilipeCampos">
 
 </div>
-
-
+<div align = "center">
+<img src = "https://github-readme-stats.vercel.app/api?username=RuiFilipeCampos&show_icons=true&theme=radical">
+</div>
 
 
 <h3>Current/Future Projects </h3>
