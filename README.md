@@ -1,7 +1,7 @@
 <h1 align = "center"> I'm Rui ! </h1>
 
 <div align = "center"> 
-  <a href="https://www.instagram.com/ruicampos123/"> Instagram </a> | <a href="https://www.linkedin.com/in/ruifilipecampos/"> Linkedin </a>
+  <a href="https://www.instagram.com/ruicampos123/"> Instagram </a> | <a href="https://www.linkedin.com/in/ruifilipecampos/"> Linkedin </a> | <a href="https://rui-campos-portfolio.vercel.app/"> Porfolio/Website </a>
 </div>
 
 <h3 align = "center">  I am </h3>
