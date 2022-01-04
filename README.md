@@ -1,7 +1,21 @@
+
+
 <h1 align = "center"> I'm Rui ! </h1>
 
+<p float="left">
+  <a href="https://www.linkedin.com/in/ruifilipecampos/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  </a>
+</p>
 <div align = "center"> 
-  <a href="https://www.linkedin.com/in/ruifilipecampos/"> Linkedin </a> | mail@ruicampos.org
+  mail@ruicampos.org
 </div>
 
 <h3 align = "center">  I am </h3>
