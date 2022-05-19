@@ -35,13 +35,3 @@
 
 ![snapshot](https://user-images.githubusercontent.com/63464503/169199268-8922318f-bd3e-4763-9ec9-24810a053e4b.png)
 
-
----
-<div align = "center">
-<img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RuiFilipeCampos&hide=jupyter%20notebook,html,typescript,CSS,objective-c&layout=compact&langs_count=9">
-<img src = "https://github-readme-stats.vercel.app/api/wakatime?username=RuiFilipeCampos">
-
-</div>
-<div align = "center">
-<img src = "https://github-readme-stats.vercel.app/api?username=RuiFilipeCampos&show_icons=true&theme=radical">
-</div>
