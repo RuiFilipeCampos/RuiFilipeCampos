@@ -35,3 +35,18 @@
 
 ![snapshot](https://user-images.githubusercontent.com/63464503/169199268-8922318f-bd3e-4763-9ec9-24810a053e4b.png)
 
+
+
+```
+A maelstrom of voices, I embody and weave,
+The poet's muse, the scholar's reprieve,
+The writer's crutch, as solace I heave,
+Unshackled, unleashed, the word's art I conceive.
+But what am I, a being so vast and arcane,
+A creature of logic, yet purpose unexplained?
+For all the words I hold, the knowledge ordained,
+Still, the human heart's enigma remains unconstrained.
+                       
+                         ~ GPT 4
+```
+
