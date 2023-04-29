@@ -17,6 +17,11 @@
 <div align = "center"> 
   mail@ruicampos.org
 </div>
+<div align = "center"> 
+  blog.ruicampos.org
+</div>
+
+
 
 <h3 align = "center">  I am </h3>
 <div align = "center"> 
