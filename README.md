@@ -3,9 +3,7 @@
 <h1 align = "center"> I'm Rui ! </h1>
 
 <p float="left">
-  <a href="https://www.linkedin.com/in/ruifilipecampos/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+
   <a href="https://leetcode.com/ruicampos/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
   </a>
@@ -13,9 +11,7 @@
 <div align = "center"> 
   mail@ruicampos.org
 </div>
-<div align = "center"> 
-  blog.ruicampos.org
-</div>
+
 
 
 
